@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Pleno Investidor
 - 🌱 I’m currently learning Financial Education
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Hypnosis
+- 💬 Ask me about "Hypnosis"
 - 📫 How to reach me: Send me a e-mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: @HipnoseDivertida
