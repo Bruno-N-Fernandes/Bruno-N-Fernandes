@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-N-Fernandes&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-N-Fernandes&show_icons=true&theme=merko&include_all_commits=true)
 
 
 **Bruno-N-Fernandes/Bruno-N-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
